@@ -1,0 +1,205 @@
+<html>
+	<head>
+		<title>网页标题</title>
+		<meta name="keywords" content="传智播客网页设计培训">
+		<meta name="description" content="传智播客网页设计培训">
+		
+		<meta http-equiv="content-type" content="text/html;charset=utf-8">
+
+	</head>
+	<body bgcolor="pink">
+	<center>
+		<ol>
+			<li>基本表格</li>
+			<table width="600"  bordercolor="black"  border="1" align="center" cellspacing="0" cellpadding="5">
+				<tr>
+					<td>网站建设</td>
+					<td>影视广告</td>
+					<td>网络编程</td>
+				</tr>
+				<tr>
+					<td>前台美工</td>
+					<td>平面广告</td>
+					<td>网络安全</td>
+				</tr>
+				<tr>
+					<td>后台程序</td>
+					<td>影视广告</td>
+					<td>软件开发</td>
+				</tr>
+			 </table>
+
+			 <br />
+
+			 <li>无边框表格</li>
+			 <table width="600"  >
+				<tr>
+					<td>网站建设</td>
+					<td>影视广告</td>
+					<td>网络编程</td>
+				</tr>
+				<tr>
+					<td>前台美工</td>
+					<td>平面广告</td>
+					<td>网络安全</td>
+				</tr>
+				<tr>
+					<td>后台程序</td>
+					<td>影视广告</td>
+					<td>软件开发</td>
+				</tr>
+			 </table>
+
+			 <br />
+
+			 <li>双线表格</li>
+			 <table width="600" border="1" bordercolor="blue" cellpadding="5">
+				<tr>
+					<td>网站建设</td>
+					<td>影视广告</td>
+					<td>网络编程</td>
+				</tr>
+				<tr>
+					<td>前台美工</td>
+					<td>平面广告</td>
+					<td>网络安全</td>
+				</tr>
+				<tr>
+					<td>后台程序</td>
+					<td>影视动画</td>
+					<td>软件开发</td>
+				</tr>
+			 </table>
+
+			 <br />
+
+			 <li>合并多行表格</li>
+			 <table width="600" border="1" bordercolor="blue" cellpadding="5">
+				<tr>
+					<td colspan="3" align="center" height="50" valign="top">计算机应用</td>
+				</tr>
+				<tr>
+					<td>前台美工</td>
+					<td>平面广告</td>
+					<td>网络安全</td>
+				</tr>
+				<tr>
+					<td>后台程序</td>
+					<td>影视动画</td>
+					<td>软件开发</td>
+				</tr>
+			 </table>
+			 <br />
+
+			 <li>合并多列表格</li>
+			 <table width="600" border="1" bordercolor="blue" cellpadding="5">
+				<tr>
+					<td rowspan="3" align="center" valign="bottom">计算机应用</td>
+					<td>影视广告</td>
+					<td>网络编程</td>
+				</tr>
+				<tr>
+					<td>平面广告</td>
+					<td>网络安全</td>
+				</tr>
+				<tr>
+					<td>影视动画</td>
+					<td>软件开发</td>
+				</tr>
+			 </table>
+			 <br />
+
+			 <li>复杂表格1</li>
+			 <table width="600" border="1" bordercolor="blue" cellpadding="5">
+				<tr>
+					<td>网站建设</td>
+					<td colspan="2">影视广告</td>
+				</tr>
+				<tr>
+					<td>前台美工</td>
+					<td rowspan="2">平面广告<br /> 影视动画</td>
+					<td>网络安全</td>
+				</tr>
+				<tr>
+					<td>后台程序</td>
+					<td>软件开发</td>
+				</tr>
+			 </table>
+			 <br />
+			 <li>复杂表格2</li>
+			 <table width="600" border="1" bordercolor="blue" cellpadding="5">
+				<tr>
+					<td>网站建设</td>
+					<td>影视广告</td>
+					<td>网络编程</td>
+				</tr>
+				<tr>
+					<td colspan="2">前台美工 平面广告</td>
+					<td rowspan="2">网络安全<br />软件开发</td>
+				</tr>
+				<tr>
+					<td>后台程序</td>
+					<td>影视动画</td>
+				</tr>
+			 </table>
+			 <br />
+			 <li>表格凸起效果</li>
+			 <table width="600" border="1" " cellpadding="5" bgcolor="gray" bordercolorlight="black" bordercolordark="white">
+				<tr>
+					<td>网站建设</td>
+					<td>影视广告</td>
+					<td>网络编程</td>
+				</tr>
+				<tr>
+					<td>前台美工</td>
+					<td>平面广告</td>
+					<td>网络安全</td>
+				</tr>
+				<tr>
+					<td>后台程序</td>
+					<td>影视动画</td>
+					<td>软件开发</td>
+				</tr>
+			 </table>
+			 <br />
+			 <li>表格凹陷效果</li>
+			 <table width="600" border="1" " cellpadding="5" bgcolor="gray" bordercolorlight="white" bordercolordark="black">
+				<tr>
+					<td>网站建设</td>
+					<td>影视广告</td>
+					<td>网络编程</td>
+				</tr>
+				<tr>
+					<td>前台美工</td>
+					<td>平面广告</td>
+					<td>网络安全</td>
+				</tr>
+				<tr>
+					<td>后台程序</td>
+					<td>影视动画</td>
+					<td>软件开发</td>
+				</tr>
+			 </table>
+			 <br />
+			 <li>细线表格效果</li>
+			<table width="600"   border="0" align="center" cellspacing="1" cellpadding="5" bgcolor="blue">
+				<tr bgcolor="white">
+					<td >网站建设</td>
+					<td >影视广告</td>
+					<td>网络编程</td>
+				</tr>
+				<tr bgcolor="white">
+					<td>前台美工</td>
+					<td>平面广告</td>
+					<td>网络安全</td>
+				</tr>
+				<tr bgcolor="white">
+					<td>后台程序</td>
+					<td>影视广告</td>
+					<td>软件开发</td>
+				</tr>
+			 </table>
+		</ol>
+		</center>
+	</body>
+</html>
