@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<title>网页标题</title>
+		<meta name="keywords" content="传智播客网页设计培训">
+		<meta name="description" content="传智播客网页设计培训">
+		
+		<meta http-equiv="content-type" content="text/html;charset=utf-8">
+
+	</head>
+	<body>
+		<table width="990" ">
+			<tr>
+				<td width="250"><font size="2">2011年12月7日 冬月十三 星期三 14:11</font></td>
+				<td></td>
+				<td width="650" align="center"><font size="2">把hao123设为主页 下载到桌面 主页修复 个性设置 返回老版 反馈给hao123换上新装</font></td>
+			</tr>
+		</table>
+		<table width="990" border="0">
+			<tr>
+				<td width="250"><img src="https://gss0.bdstatic.com/5eR1dDebRNRTm2_p8IuM_a/res/img/dongzhi1221_24.png" /></td>
+				<td><img src="C:\Users\wang\Desktop/图1.png" /></td>
+			</tr>
+		</table>
+		<table width="990" border="1" bordercolor="#B5De8C" cellspacing="0" rules="none">
+			<tr >
+				<td width="220"><img src="C:\Users\wang\Desktop\baidu.png"></td>
+				<td width="530">
+				`<!--这里是两行一列的小表格，作为嵌套小表格，可以使用百分比，相对单位-->
+					<table width="100%" border="1">
+						<tr>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>2</td>
+						</tr>
+					</table>
+				</td>
+				<td>&nbsp</td>
+			</tr>
+		</table>
+		<table width="990">
+			<tr>
+				<td width="250" align="center" rowspan="2">haha</td>
+				<td width="750" align="center">haha</td>
+			</tr>
+			<tr>
+				<td width="750" align="center">haha</td>
+			</tr>
+		</table>
+	</body>
+</html>
